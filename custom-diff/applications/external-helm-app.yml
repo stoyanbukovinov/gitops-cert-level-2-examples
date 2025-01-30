@@ -28,7 +28,6 @@ spec:
     jsonPointers:
     - /data/my-password
 
-  ignoreDifferences:
   - group: apps
     kind: Deployment
     jsonPointers:
